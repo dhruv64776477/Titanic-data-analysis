@@ -7,8 +7,6 @@ The goal is to understand the dataset, handle missing values, perform data prepr
 
 ## Dataset
 
-Source: Kaggle – Titanic: Machine Learning from Disaster
-
 - File used: train.csv
-- Records: 891 passengers
-- Features: 12 columns
+- Records: 931 passengers
+- Features: 17 columns
